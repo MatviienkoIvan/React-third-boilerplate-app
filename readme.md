@@ -1,1 +1,1 @@
-React timer app
+Redux module
