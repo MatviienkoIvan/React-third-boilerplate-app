@@ -13,3 +13,6 @@ ReactDOM.render(
  <p>Boilerplate 3 Project</p>,
   document.getElementById("rootApp")
 );
+
+require('./redux/redux-example.jsx');
+// require('./redux/redux-todo-example.jsx');
